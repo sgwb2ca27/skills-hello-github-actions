@@ -6,7 +6,7 @@
 
 1. En la pestaña **Code** de tu repositorio, crea una nueva rama llamada `welcome-workflow`.
 
-   <img width="400" alt="create branch screenshot" src="../images/create-branch-screenshot.png" />
+   <img width="400" alt="create branch screenshot" src="https://github.com/sgwb2ca27/skills-hello-github-actions/blob/main/.github/images/create-branch-screenshot.png?raw=true" />
 
 1. En la nueva rama `welcome-workflow`, ve a la ruta`.github/workflows`.
 
